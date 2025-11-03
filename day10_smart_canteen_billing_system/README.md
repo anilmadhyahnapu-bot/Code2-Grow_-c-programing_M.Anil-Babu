@@ -1,1 +1,2 @@
-
+This C program is a Smart Canteen Billing System that serves multiple customers. It takes orders from each customer for multiple items, calculates individual and total bills using loops and conditionals, applies a 10% discount if the bill exceeds 500, and finally prints each customer’s bill and a summary of total sales. It uses basic programming constructs without arrays or functions.
+And this program demonstrates fundamental C programming concepts such as using loops for repetitive tasks, conditionals for decision making, and basic arithmetic operations for billing calculations. It provides a practical example of how programming can be used to automate everyday tasks like billing in a canteen, making the process efficient and error-free.
