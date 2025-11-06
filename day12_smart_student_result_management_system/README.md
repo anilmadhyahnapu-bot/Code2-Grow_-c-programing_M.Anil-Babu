@@ -1,1 +1,2 @@
-
+The  code implements a "Smart Student Result Management System" that enables teachers to enter marks for multiple students, calculate their averages, assign grades, and display both individual reports and a class summary, all without using arrays, functions, or structures. The program uses only loops and conditional statements to navigate a menu-driven interface, fulfilling the constraints specified in the assignment.
+For every student, it calculates the total and average marks, then assigns a grade based on the average according to the following rules:A+ for averages ≥ 90,A for 80–89,B for 70–79,C for 60–69,D for 50–59,Fail for < 50.
