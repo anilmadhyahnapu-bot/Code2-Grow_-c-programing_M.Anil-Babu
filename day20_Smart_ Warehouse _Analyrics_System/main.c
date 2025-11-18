@@ -93,6 +93,7 @@ case 3:update(); break;
 case 4:rack_report(); break;
 case 5:stock_value(); break;
 case 6:display(); break;
-case 0:return 0;
+case 0:
+return 0;
 default: printf("Invalid");
 }}}
